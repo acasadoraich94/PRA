@@ -1,7 +1,6 @@
 # PRA - Visualització de Dades
 
 Aquesta aplicació Shiny ha estat desenvolupada per a la segona part de la pràctica de l'assignatura de Visualització de Dades del Màster Universitari en Ciència de Dades de la UOC. L'objectiu d'aquesta aplicació és visualitzar les dades electorals del Parlament de Catalunya i l'evolució de la intenció de vot dels diferents partits polítics entre 2021 i 2024.
-Per accedir-hi entreu a: https://acasadoraich.shinyapps.io/PRA2/
 
 ## Descripció
 
