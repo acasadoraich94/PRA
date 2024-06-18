@@ -1,6 +1,7 @@
 # PRA2 - Visualització de Dades
 
 Aquesta aplicació Shiny ha estat desenvolupada per a la segona part de la pràctica de l'assignatura de Visualització de Dades del Màster Universitari en Ciència de Dades de la UOC. L'objectiu d'aquesta aplicació és visualitzar les dades electorals del Parlament de Catalunya i l'evolució de la intenció de vot dels diferents partits polítics entre 2021 i 2024.
+Per accedir-hi entreu a: https://acasadoraich.shinyapps.io/PRA2/
 
 ## Descripció
 
@@ -17,7 +18,7 @@ Per executar aquesta aplicació localment, segueix els següents passos:
 
 1. Clona aquest repositori:
     ```bash
-    git clone https://github.com/acasadoraich/PRA2.git
+    git clone https://github.com/acasadoraich94/PRA.git
     ```
 
 2. Instal·la les dependències necessàries. Pots utilitzar el fitxer `renv.lock` per assegurar que totes les versions de paquets són correctes:
@@ -28,7 +29,7 @@ Per executar aquesta aplicació localment, segueix els següents passos:
 
 3. Executa l'aplicació:
     ```r
-    shiny::runApp('C:/Users/UOC 2/OneDrive/Màster Universitari en Ciència de Dades/2023/2n semestre/Visualització de dades/PRA/Part II/PRA2')
+    shiny::runApp('C:/Users/UOC 2/OneDrive/Màster Universitari en Ciència de Dades/2023/2n semestre/Visualització de dades/PRA/Part II/PRA')
     ```
 
 ## Dades
