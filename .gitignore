@@ -1,0 +1,20 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
+
+# renv files
+renv/library/
+renv/staging/
+
+# Shiny logs
+*.log
+
+# Other files
+*.tar.gz
+*.zip

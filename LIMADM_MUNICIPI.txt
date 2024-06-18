@@ -1,0 +1,1 @@
+http://sig.gencat.cat/ows/LIMITS_ADM/wfs?REQUEST=GetFeature&service=wfs&version=1.1.0&typename=LIMADM_MUNICIPI&outputformat=SHAPE-ZIP
