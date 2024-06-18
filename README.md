@@ -12,26 +12,6 @@ L'aplicació està estructurada en diverses pestanyes:
 3. **Resultats Electorals**: Presentació interactiva dels resultats de les eleccions al Parlament de Catalunya del 12 de maig de 2024. Els usuaris poden veure els percentatges de vot per a cada partit a nivell municipal i aplicar filtres demogràfics.
 4. **Codi Font**: Mostra el codi R que genera l’aplicació.
 
-## Instal·lació
-
-Per executar aquesta aplicació localment, segueix els següents passos:
-
-1. Clona aquest repositori:
-    ```bash
-    git clone https://github.com/acasadoraich94/PRA.git
-    ```
-
-2. Instal·la les dependències necessàries. Pots utilitzar el fitxer `renv.lock` per assegurar que totes les versions de paquets són correctes:
-    ```r
-    install.packages("renv")
-    renv::restore()
-    ```
-
-3. Executa l'aplicació:
-    ```r
-    shiny::runApp('C:/Users/UOC 2/OneDrive/Màster Universitari en Ciència de Dades/2023/2n semestre/Visualització de dades/PRA/Part II/PRA')
-    ```
-
 ## Dades
 
 Les dades utilitzades en aquesta aplicació provenen de diverses fonts:
